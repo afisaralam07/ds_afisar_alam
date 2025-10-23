@@ -1,0 +1,25 @@
+Bitcoin Market Sentiment Data Analysis Report
+==============================================
+
+Total records analyzed: 2644
+
+Sentiment Distribution:
+- Fear: 781 days
+- Greed: 633 days
+- Extreme Fear: 508 days
+- Neutral: 396 days
+- Extreme Greed: 326 days
+
+Longest Consecutive Streaks:
+- Extreme Fear: 74 days
+- Extreme Greed: 77 days
+- Fear: 48 days
+- Greed: 42 days
+- Neutral: 28 days
+
+Insights:
+1. The data shows fluctuations between Fear and Greed sentiments over time.
+2. Rolling averages help identify smoothed trends for market behavior.
+3. Longer streaks of Fear may indicate prolonged market uncertainty or downturns.
+4. Greed streaks often precede market rallies or bubbles.
+5. Visualization aids in understanding sentiment transitions and cyclicity.

@@ -1,0 +1,22 @@
+Historical Trader Data Analysis Report
+=====================================
+Total Records: 79225
+Trade Side Distribution:
+Buy: 0
+Sell: 0
+
+Top 10 Traded Coins:
+HYPE: 22783
+@107: 10271
+BTC: 9660
+ETH: 6834
+SOL: 5992
+FARTCOIN: 1688
+XRP: 1221
+MELANIA: 1136
+PURR/USDC: 914
+SUI: 831
+
+Forecasting:
+Model: ARIMA(5,1,0)
+RMSE on Test Data: 3.4688185451945657
